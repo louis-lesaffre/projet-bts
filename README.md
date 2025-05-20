@@ -1,1 +1,1 @@
-# projet-bts
+# Projet BTS
